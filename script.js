@@ -54,7 +54,7 @@ const questions = [
         ] 
     },
     {
-        question: "What is the use of the <noscript> tag in Javascript?",
+        question: "What is the use of the noscript tag in Javascript?",
         answers : [
             {text : "The contents are displayed by non-JS-based browsers" , correct : true},
             {text : "Clears all the cookies and cache" , correct : false},
